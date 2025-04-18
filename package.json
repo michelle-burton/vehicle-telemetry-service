@@ -2,16 +2,16 @@
   "name": "vehicle-telemetry-service",
   "version": "1.0.0",
   "description": "A serverless microservice for ingesting and retrieving vehicle telemetry data, built using **AWS Lambda**, **API Gateway**, and **Terraform**, with in-memory data storage.",
-  "main": "index.js",
+  "main": "lambda/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/michelle-burton/vehicle-telemetry-service.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michelle Burton",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/michelle-burton/vehicle-telemetry-service/issues"
