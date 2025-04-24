@@ -35,12 +35,18 @@ This project demonstrates reusable AWS cloud components, infrastructure-as-code 
 
 ---
 
+## 💡 Future Improvements
+
+- ⏳ Add DynamoDB for persistent storage  
+- 📊 CloudWatch monitoring and alerting  
+- 📣 SNS alerts for event-driven notifications  
+- 🔁 CI/CD automation with GitHub Actions  
+
+---
+
 ## 👩‍💻 Author
 
-Michelle Burton
-- 🌐 www.michelle-burton.com
-- 💼 Front-End Engineer & Cloud DevOps Enthusiast
-- 📁 GitHub
-
-
-
+**Michelle Burton**  
+🌐 [www.michelle-burton.com](https://www.michelle-burton.com)  
+💼 Front-End Engineer & Cloud DevOps Enthusiast  
+📁 [GitHub](https://github.com/michelle-burton)
