@@ -38,9 +38,9 @@ This project demonstrates reusable AWS cloud components, infrastructure-as-code 
 ## 👩‍💻 Author
 
 Michelle Burton
-🌐 www.michelle-burton.com
-💼 Front-End Engineer & Cloud DevOps Enthusiast
-📁 GitHub
+- 🌐 www.michelle-burton.com
+- 💼 Front-End Engineer & Cloud DevOps Enthusiast
+- 📁 GitHub
 
 
 
