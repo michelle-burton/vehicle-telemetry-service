@@ -35,10 +35,12 @@ This project demonstrates reusable AWS cloud components, infrastructure-as-code 
 
 ---
 
-## 🛠 Getting Started
+## 👩‍💻 Author
 
-### 1. Clone the repo
+Michelle Burton
+🌐 www.michelle-burton.com
+💼 Front-End Engineer & Cloud DevOps Enthusiast
+📁 GitHub
 
-```bash
-git clone https://github.com/YOUR_USERNAME/vehicle-telemetry-service.git
-cd vehicle-telemetry-service
+
+
