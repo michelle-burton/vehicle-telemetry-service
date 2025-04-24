@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+lambda.zip
+.env
+node_modules/
+.terraform/
+terraform.tfstate*
+.DS_Store
+AWSCLIV2.pkg
+
